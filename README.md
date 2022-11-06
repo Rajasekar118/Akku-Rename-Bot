@@ -5,13 +5,13 @@
 
 ## How To Deploy
 
-<a href="https://youtu.be/oc847WvOUaI"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
+<a href="https://youtube.com/channel/UCYIgrKFZod9byj6F2ohcusw"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
 
 ## Deployment Support
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Simple-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajasekar118/Akku-Rename-Bot)
 
 ### Railway
 
@@ -28,6 +28,6 @@ view - view current thumbnail
 
 ## Support
 
-● [BOT UPDATES](https://t.me/mkn_bots_updates)
+● [Creator](https://t.me/raja_sekar_811)
 
-● [SUPPORT GROUP](https://t.me/mkn_botz_discussion_group)
+● [SUPPORT GROUP](https://t.me/royal_moviz)
